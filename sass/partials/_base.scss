@@ -1,0 +1,97 @@
+// This file must be imported before loading html5-boilerplate
+
+// base
+$base-font-family: unquote("sans-serif");
+$base-font-size: 12px;
+$base-line-height: 1.5;
+$font-color: #3b3b3b;
+
+@font-face {
+font-family:Gravur;
+font-style:normal;
+font-weight:400;
+src:local(Gravur),url(gravur.eot?ie8hack) format(embedded-opentype),url(../fonts/gravur.woff) format(woff),url(gravur.ttf) format(truetype),url(gravur.svg) format(svg);
+}
+
+$gravur:"Gravur";
+
+// Prince colours
+
+/* ORANGE */
+$a1:#6d1132;
+$a2:#b32034;
+$a3:#e8491b;
+$a4:#ef7d00;
+$a5:#fcc043;
+$a6:#ffe596;
+$a7:#fff2ca;
+
+/* GREEN */
+$b1:#003d23;
+$b2:#006833;
+$b3:#13a538;
+$b4:#a2c73b;
+$b5:#dddf4b;
+$b6:#fff265;
+$b7:#fff8b2;
+
+/* TURQUOISE */
+$c1:#003d41;
+$c2:#005d61;
+$c3:#008b84;
+$c4:#00b1b2;
+$c5:#88cdd3;
+$c6:#cde8ea;
+$c7:#e6f3f4;
+
+/* BLUE */
+$d1:#002856;
+$d2:#004d9d;
+$d3:#0078c0;
+$d4:#00b1eb;
+$d5:#71cbf4;
+$d6:#bce4fa;
+$d7:#ddf1fc;
+
+/* PURPLE */
+$e1:#2a164e;
+$e2:#382c82;
+$e3:#5e4f9c;
+$e4:#9a8ec4;
+$e5:#bdb5da;
+$e6:#dbd7ed;
+$e7:#edebf6;
+
+/* MAGENTA */
+$f1:#43053e;
+$f2:#691260;
+$f3:#a31781;
+$f4:#e8308a;
+$f5:#f193bd;
+$f6:#f8c9df;
+$f7:#fbe4ef;
+
+/* GREY */
+$g1:#3b3b3b;
+$g2:#575757;
+$g3:#757575;
+$g4:#bababa;
+$g5:#dadada;
+$g6:#eeeeee;
+$g7:#f4f4f4;
+
+
+
+
+// Links
+$link-color: #00e;
+$link-visited-color: #551a8b;
+$link-hover-color: #06e;
+
+// Lists
+$list-left-margin: 40px;
+
+
+// Prince Forms
+$prince-input-border-focus: $d3;
+$prince-input-border-error: $f4;

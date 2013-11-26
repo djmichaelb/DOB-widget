@@ -1,0 +1,185 @@
+2013-08-13 11:43:01    remove .sass-cache/ 
+2013-08-13 11:43:01    remove stylesheets/style.css 
+2013-08-13 11:43:03    create stylesheets/style.css 
+2013-08-13 11:43:34    remove .sass-cache/ 
+2013-08-13 11:43:34    remove stylesheets/style.css 
+2013-08-13 11:43:35    create stylesheets/style.css 
+2013-08-13 11:43:55    remove .sass-cache/ 
+2013-08-13 11:43:55    remove stylesheets/style.css 
+2013-08-13 11:43:56    create stylesheets/style.css 
+2013-08-13 11:44:14    remove .sass-cache/ 
+2013-08-13 11:44:14    remove stylesheets/style.css 
+2013-08-13 11:44:15    create stylesheets/style.css 
+2013-08-13 11:44:47    remove .sass-cache/ 
+2013-08-13 11:44:47    remove stylesheets/style.css 
+2013-08-13 11:44:49    create stylesheets/style.css 
+2013-08-13 11:46:53    remove .sass-cache/ 
+2013-08-13 11:46:53    remove stylesheets/style.css 
+2013-08-13 11:46:54    create stylesheets/style.css 
+2013-08-13 11:52:55 overwrite stylesheets/style.css 
+2013-08-13 11:52:56 identical stylesheets/style.css 
+2013-08-13 11:53:08 overwrite stylesheets/style.css 
+2013-08-13 11:57:07 overwrite stylesheets/style.css 
+2013-08-13 11:57:52     error sass/style.scss (Line 19 of sass/partials/_page.scss: Invalid CSS after "...---------------": expected ":", was "body {}")
+2013-08-13 11:57:52 overwrite stylesheets/style.css 
+2013-08-13 11:57:52     error sass/style.scss (Line 19 of sass/partials/_page.scss: Invalid CSS after "...---------------": expected ":", was "body {}")
+2013-08-13 11:57:52 identical stylesheets/style.css 
+2013-08-13 11:57:59     error sass/style.scss (Line 19 of sass/partials/_page.scss: Invalid CSS after "...---------------": expected ":", was "body {}")
+2013-08-13 11:57:59 identical stylesheets/style.css 
+2013-08-13 11:57:59     error sass/style.scss (Line 19 of sass/partials/_page.scss: Invalid CSS after "...---------------": expected ":", was "body {}")
+2013-08-13 11:57:59 identical stylesheets/style.css 
+2013-08-13 11:58:16     error sass/style.scss (Line 19 of sass/partials/_page.scss: Invalid CSS after "...---------------": expected ":", was "body {}")
+2013-08-13 11:58:16 identical stylesheets/style.css 
+2013-08-13 11:58:16     error sass/style.scss (Line 19 of sass/partials/_page.scss: Invalid CSS after "...---------------": expected ":", was "body {}")
+2013-08-13 11:58:16 identical stylesheets/style.css 
+2013-08-13 11:58:29 overwrite stylesheets/style.css 
+2013-08-13 11:58:45 overwrite stylesheets/style.css 
+2013-08-13 12:00:07 overwrite stylesheets/style.css 
+2013-08-13 12:00:12 identical stylesheets/style.css 
+2013-08-13 12:00:21 overwrite stylesheets/style.css 
+2013-08-13 12:01:15 overwrite stylesheets/style.css 
+2013-08-13 12:01:23 identical stylesheets/style.css 
+2013-08-13 12:01:24 identical stylesheets/style.css 
+2013-08-13 12:04:41 overwrite stylesheets/style.css 
+2013-08-13 12:05:24 overwrite stylesheets/style.css 
+2013-08-13 12:07:10 overwrite stylesheets/style.css 
+2013-08-13 12:07:28 overwrite stylesheets/style.css 
+2013-08-13 12:08:24 overwrite stylesheets/style.css 
+2013-08-13 12:08:38 overwrite stylesheets/style.css 
+2013-08-13 12:09:53 identical stylesheets/style.css 
+2013-08-13 12:49:45     error sass/style.scss (Line 29 of sass/partials/_page.scss: Invalid CSS after "        font-size": expected ";", was ":1.6em;")
+2013-08-13 12:49:45 overwrite stylesheets/style.css 
+2013-08-13 12:49:45     error sass/style.scss (Line 29 of sass/partials/_page.scss: Invalid CSS after "        font-size": expected ";", was ":1.6em;")
+2013-08-13 12:49:45 identical stylesheets/style.css 
+2013-08-13 12:49:53 overwrite stylesheets/style.css 
+2013-08-13 12:50:07 overwrite stylesheets/style.css 
+2013-08-13 12:50:09 identical stylesheets/style.css 
+2013-08-13 12:52:17 identical stylesheets/style.css 
+2013-08-13 12:52:40     error sass/style.scss (Line 48 of sass/partials/_page.scss: Undefined mixin 'round'.)
+2013-08-13 12:52:40 overwrite stylesheets/style.css 
+2013-08-13 12:53:18     error sass/style.scss (Line 48 of sass/partials/_page.scss: Undefined mixin 'round'.)
+2013-08-13 12:53:18 overwrite stylesheets/style.css 
+2013-08-13 12:55:10     error sass/style.scss (Line 7 of sass/partials/_prince.scss: Undefined mixin 'round-corners'.)
+2013-08-13 12:55:10 overwrite stylesheets/style.css 
+2013-08-13 12:56:04 overwrite stylesheets/style.css 
+2013-08-13 12:56:47 identical stylesheets/style.css 
+2013-08-13 15:38:40 overwrite stylesheets/style.css 
+2013-08-13 15:39:23 overwrite stylesheets/style.css 
+2013-08-13 15:39:41 overwrite stylesheets/style.css 
+2013-08-13 15:40:58 overwrite stylesheets/style.css 
+2013-08-13 15:41:27 overwrite stylesheets/style.css 
+2013-08-13 15:41:42 overwrite stylesheets/style.css 
+2013-08-13 15:42:00 overwrite stylesheets/style.css 
+2013-08-13 15:45:10 overwrite stylesheets/style.css 
+2013-08-13 15:46:09 overwrite stylesheets/style.css 
+2013-08-13 15:46:35     error sass/style.scss (Line 7 of sass/partials/_base.scss: Colors must have either three or six digits: '#3b')
+2013-08-13 15:46:35 overwrite stylesheets/style.css 
+2013-08-13 15:46:35     error sass/style.scss (Line 7 of sass/partials/_base.scss: Colors must have either three or six digits: '#3b')
+2013-08-13 15:46:35 identical stylesheets/style.css 
+2013-08-13 15:46:41 overwrite stylesheets/style.css 
+2013-08-13 15:46:47 overwrite stylesheets/style.css 
+2013-08-13 15:47:10 overwrite stylesheets/style.css 
+2013-08-13 15:49:07 overwrite stylesheets/style.css 
+2013-08-13 15:50:50 overwrite stylesheets/style.css 
+2013-08-13 15:55:50 overwrite stylesheets/style.css 
+2013-08-13 15:56:05 overwrite stylesheets/style.css 
+2013-08-13 15:56:15 overwrite stylesheets/style.css 
+2013-08-13 15:56:17 identical stylesheets/style.css 
+2013-08-13 15:56:56 overwrite stylesheets/style.css 
+2013-08-13 16:01:39 overwrite stylesheets/style.css 
+2013-08-13 16:02:53     error sass/style.scss (Line 50 of sass/partials/_page.scss: Invalid CSS after "..., 0, 0, 0.075))": expected "}", was "transition: bor...")
+2013-08-13 16:02:53 overwrite stylesheets/style.css 
+2013-08-13 16:02:53     error sass/style.scss (Line 50 of sass/partials/_page.scss: Invalid CSS after "..., 0, 0, 0.075))": expected "}", was "transition: bor...")
+2013-08-13 16:02:53 identical stylesheets/style.css 
+2013-08-13 16:03:15 overwrite stylesheets/style.css 
+2013-08-13 16:03:55     error sass/style.scss (Line 52 of sass/partials/_page.scss: Invalid CSS after "...dow linear 0.2s": expected ";", was ":focus {")
+2013-08-13 16:03:55 overwrite stylesheets/style.css 
+2013-08-13 16:03:55     error sass/style.scss (Line 52 of sass/partials/_page.scss: Invalid CSS after "...dow linear 0.2s": expected ";", was ":focus {")
+2013-08-13 16:03:55 identical stylesheets/style.css 
+2013-08-13 16:14:05     error sass/style.scss (Line 52 of sass/partials/_page.scss: Invalid CSS after "...dow linear 0.2s": expected ";", was ":focus {")
+2013-08-13 16:14:05 identical stylesheets/style.css 
+2013-08-13 16:14:05     error sass/style.scss (Line 52 of sass/partials/_page.scss: Invalid CSS after "...dow linear 0.2s": expected ";", was ":focus {")
+2013-08-13 16:14:05 identical stylesheets/style.css 
+2013-08-13 16:14:26     error sass/style.scss (Line 52 of sass/partials/_page.scss: Invalid CSS after "...        :focus ": expected ":", was "{")
+2013-08-13 16:14:26 overwrite stylesheets/style.css 
+2013-08-13 16:14:27     error sass/style.scss (Line 52 of sass/partials/_page.scss: Invalid CSS after "...        :focus ": expected ":", was "{")
+2013-08-13 16:14:27 identical stylesheets/style.css 
+2013-08-13 16:18:31     error sass/style.scss (Line 55 of sass/partials/_page.scss: Invalid CSS after "...168, 236, 0.6))": expected "}", was "outline:0;")
+2013-08-13 16:18:31 overwrite stylesheets/style.css 
+2013-08-13 16:18:32     error sass/style.scss (Line 55 of sass/partials/_page.scss: Invalid CSS after "...168, 236, 0.6))": expected "}", was "outline:0;")
+2013-08-13 16:18:32 identical stylesheets/style.css 
+2013-08-13 16:19:02 overwrite stylesheets/style.css 
+2013-08-13 16:20:30 overwrite stylesheets/style.css 
+2013-08-13 16:21:05 overwrite stylesheets/style.css 
+2013-08-13 16:22:03 overwrite stylesheets/style.css 
+2013-08-13 16:32:26 overwrite stylesheets/style.css 
+2013-08-13 17:02:00 overwrite stylesheets/style.css 
+2013-08-13 17:02:19 overwrite stylesheets/style.css 
+2013-08-13 17:04:04     error sass/style.scss (Line 53 of sass/partials/_page.scss: Undefined variable: "$prince-input-border-focus".)
+2013-08-13 17:04:04 overwrite stylesheets/style.css 
+2013-08-13 17:04:32     error sass/style.scss (Line 53 of sass/partials/_page.scss: Undefined variable: "$prince-input-border-focus".)
+2013-08-13 17:04:32 identical stylesheets/style.css 
+2013-08-13 17:12:24 overwrite stylesheets/style.css 
+2013-08-13 17:16:06 overwrite stylesheets/style.css 
+2013-08-13 17:18:10 overwrite stylesheets/style.css 
+2013-08-13 17:18:20 identical stylesheets/style.css 
+2013-08-13 17:19:38 overwrite stylesheets/style.css 
+2013-08-13 17:19:52 overwrite stylesheets/style.css 
+2013-08-13 17:20:35 overwrite stylesheets/style.css 
+2013-08-13 17:20:57 overwrite stylesheets/style.css 
+2013-08-13 17:21:26 overwrite stylesheets/style.css 
+2013-08-13 17:21:34 overwrite stylesheets/style.css 
+2013-08-13 17:22:05 overwrite stylesheets/style.css 
+2013-08-13 17:22:25 overwrite stylesheets/style.css 
+2013-08-13 17:22:32 overwrite stylesheets/style.css 
+2013-08-13 17:23:04 overwrite stylesheets/style.css 
+2013-08-13 17:23:19 overwrite stylesheets/style.css 
+2013-08-13 17:23:35 overwrite stylesheets/style.css 
+2013-08-13 17:24:34     error sass/style.scss (Line 86 of sass/partials/_page.scss: Invalid CSS after "...ox-shadow(none)": expected "}", was "text-align:center;")
+2013-08-13 17:24:34 overwrite stylesheets/style.css 
+2013-08-13 17:24:35     error sass/style.scss (Line 86 of sass/partials/_page.scss: Invalid CSS after "...ox-shadow(none)": expected "}", was "text-align:center;")
+2013-08-13 17:24:35 identical stylesheets/style.css 
+2013-08-13 17:24:56 overwrite stylesheets/style.css 
+2013-08-13 17:25:29 overwrite stylesheets/style.css 
+2013-08-13 17:37:52 overwrite stylesheets/style.css 
+2013-08-13 17:38:53 overwrite stylesheets/style.css 
+2013-08-13 17:39:02 overwrite stylesheets/style.css 
+2013-08-14 16:11:13 overwrite stylesheets/style.css 
+2013-08-19 14:29:58 overwrite stylesheets/style.css 
+2013-08-19 14:30:49 overwrite stylesheets/style.css 
+2013-08-19 14:34:35 overwrite stylesheets/style.css 
+2013-08-19 14:46:07 overwrite stylesheets/style.css 
+2013-08-22 10:36:29 overwrite stylesheets/style.css 
+2013-08-22 10:36:58 identical stylesheets/style.css 
+2013-08-22 10:38:09 overwrite stylesheets/style.css 
+2013-08-22 10:38:24 overwrite stylesheets/style.css 
+2013-08-22 10:38:35 overwrite stylesheets/style.css 
+2013-08-22 10:38:36 overwrite stylesheets/style.css 
+2013-08-22 11:10:09 overwrite stylesheets/style.css 
+2013-08-22 11:10:23 overwrite stylesheets/style.css 
+2013-08-22 11:10:33 identical stylesheets/style.css 
+2013-08-22 11:10:45 overwrite stylesheets/style.css 
+2013-08-22 11:11:43 overwrite stylesheets/style.css 
+2013-08-22 11:18:11 overwrite stylesheets/style.css 
+2013-08-22 11:18:19 overwrite stylesheets/style.css 
+2013-08-22 11:18:34 overwrite stylesheets/style.css 
+2013-08-22 11:20:22 overwrite stylesheets/style.css 
+2013-08-22 11:20:46 overwrite stylesheets/style.css 
+2013-08-23 10:50:36 overwrite stylesheets/style.css 
+2013-08-23 10:51:07 overwrite stylesheets/style.css 
+2013-08-23 10:58:46 identical stylesheets/style.css 
+2013-08-23 11:34:17 overwrite stylesheets/style.css 
+2013-08-23 11:34:45 overwrite stylesheets/style.css 
+2013-08-23 11:35:08 overwrite stylesheets/style.css 
+2013-08-23 11:35:20 overwrite stylesheets/style.css 
+2013-08-23 11:37:44 overwrite stylesheets/style.css 
+2013-08-23 11:38:29 overwrite stylesheets/style.css 
+2013-08-23 11:38:34 overwrite stylesheets/style.css 
+2013-08-23 11:39:40 overwrite stylesheets/style.css 
+2013-08-23 12:02:02 overwrite stylesheets/style.css 
+2013-08-23 12:03:20 overwrite stylesheets/style.css 
+2013-08-23 12:03:30 overwrite stylesheets/style.css 
+2013-08-23 12:03:38 overwrite stylesheets/style.css 
+2013-08-23 12:03:46 overwrite stylesheets/style.css 
+2013-08-23 12:09:17 overwrite stylesheets/style.css 
+2013-08-23 12:23:57 overwrite stylesheets/style.css 
